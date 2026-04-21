@@ -1,2 +1,2 @@
-# Procesamiento del Habla
-Asignatura PH
+# Aprendizaje Automatico 1
+Asignatura AA1
